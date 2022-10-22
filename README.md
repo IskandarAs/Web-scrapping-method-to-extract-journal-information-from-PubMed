@@ -2,7 +2,7 @@
 ![test](/img/abstract.png)
 
 ## About this project
-ScrapPaper is a web scrapping method to extract journal information from PubMed using Python script. Users need to install Python 3 and required modules, and run the `scrapping.py` script. Refer to the published paper for detailed instruction. This side project was completed on September 25, 2022 by @IskandarAs.
+Web scrapping is a method to extract journal information from PubMed using Python script. Users need to install Python 3 and required modules, and run the `scrapping.py` script. Refer to the published paper for detailed instruction. This side project was completed on September 25, 2022 by @IskandarAs.
 
 ## System Requirement
 * Python (version 3 or above)
